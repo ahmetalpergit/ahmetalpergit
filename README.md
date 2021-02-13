@@ -1,6 +1,6 @@
-[![hero-banner](assets\github-hero.png)]()
+[![hero-banner](https://raw.githubusercontent.com/ahmetalpergit/ahmetalpergit/master/assets/github-hero.png)]()
 
-# Hi, this is Ahmet! <img src="assets\wave.gif" width="30px">
+# Hi, this is Ahmet! <img src="https://raw.githubusercontent.com/ahmetalpergit/ahmetalpergit/master/assets/wave.gif" width="30px">
 
 > _I'm an aspiring Front End Engineer._
 
