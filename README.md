@@ -2,7 +2,7 @@
 
 # Hi, this is Ahmet! <img src="https://raw.githubusercontent.com/ahmetalpergit/ahmetalpergit/master/assets/wave.gif" width="30px">
 
-> _I'm an aspiring Front End Engineer._
+> _I'm an aspiring Front End Developer._
 
 
 Welcome and thanks for taking the time to visit my domain!
