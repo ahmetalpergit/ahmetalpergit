@@ -1,4 +1,4 @@
-[![hero-banner](assets\github-hero.png)]()
+<img src="assets/github-hero.png" alt="ahmetalpergit profile hero banner" width="100%" height="auto"/>
 
 # Hi, this is Ahmet! <img src="assets\wave.gif" width="30px">
 
