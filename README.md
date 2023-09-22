@@ -1,6 +1,6 @@
 <img src="assets/github-hero.png" alt="ahmetalpergit profile hero banner" width="100%" height="auto"/>
 
-# Hi, this is Ahmet! <img src="assets\wave.gif" width="30px">
+Hi, this is Ahmet! <img src="assets/wave.gif" width="30px" />
 
 > _I'm an aspiring Front End Engineer._
 
