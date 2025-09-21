@@ -10,7 +10,7 @@ Having studied Visual Communication Design in college and being thrown in the wo
 
 That admiration turned into curiosity and that curiosity took me back to the drawing board and to this portfolio right here. Hope you like what you see!
 
-PS: If you notice gaps in my GitHub activity check social links for Gitlab or other version control platforms. I'm probably busy working there! :)
+_PS: If you notice gaps in my GitHub activity check social links for Gitlab or other version control platforms. I'm probably busy working there! :)_
 
 ## STACK
 
